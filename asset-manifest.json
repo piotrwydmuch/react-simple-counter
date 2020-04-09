@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-simple-counter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-simple-counter/static/js/main.e3a45391.chunk.js",
+    "main.js.map": "/react-simple-counter/static/js/main.e3a45391.chunk.js.map",
+    "runtime-main.js": "/react-simple-counter/static/js/runtime-main.2cc0f28f.js",
+    "runtime-main.js.map": "/react-simple-counter/static/js/runtime-main.2cc0f28f.js.map",
+    "static/css/2.f65acde2.chunk.css": "/react-simple-counter/static/css/2.f65acde2.chunk.css",
+    "static/js/2.1831f105.chunk.js": "/react-simple-counter/static/js/2.1831f105.chunk.js",
+    "static/js/2.1831f105.chunk.js.map": "/react-simple-counter/static/js/2.1831f105.chunk.js.map",
+    "index.html": "/react-simple-counter/index.html",
+    "precache-manifest.5d5b68893f886461229c85beb912028c.js": "/react-simple-counter/precache-manifest.5d5b68893f886461229c85beb912028c.js",
+    "service-worker.js": "/react-simple-counter/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/react-simple-counter/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-simple-counter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1831f105.chunk.js.LICENSE.txt": "/react-simple-counter/static/js/2.1831f105.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cc0f28f.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.1831f105.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e3a45391.chunk.js"
+  ]
+}
